@@ -1,0 +1,404 @@
+<changelist name="Uncommitted_changes_before_Update_at_01_10_2022_7_53_[Changes]" date="1664636025998" recycled="false" toDelete="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_10_2022_7_53_[Changes]/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Update at 01/10/2022 7:53 [Changes]" />
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/django/contrib/sessions/locale/tg/LC_MESSAGES/django.mo" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_10_2022_7_53_[Changes]/django.mo" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/import_export/locale/ca/LC_MESSAGES/django.mo" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_10_2022_7_53_[Changes]/django1.mo" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/django/contrib/sessions/locale/ky/LC_MESSAGES/django.mo" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_10_2022_7_53_[Changes]/django2.mo" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/django/contrib/humanize/locale/uz/LC_MESSAGES/django.mo" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_10_2022_7_53_[Changes]/django3.mo" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/django/contrib/sites/locale/tk/LC_MESSAGES/django.mo" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_10_2022_7_53_[Changes]/django4.mo" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/django/contrib/admindocs/locale/ky/LC_MESSAGES/django.mo" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_10_2022_7_53_[Changes]/django5.mo" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/django/contrib/sessions/locale/ar_DZ/LC_MESSAGES/django.mo" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_10_2022_7_53_[Changes]/django6.mo" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/django/conf/locale/tg/LC_MESSAGES/django.mo" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_10_2022_7_53_[Changes]/django7.mo" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/django/conf/locale/ky/LC_MESSAGES/django.mo" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_10_2022_7_53_[Changes]/django8.mo" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/import_export/locale/de/LC_MESSAGES/django.mo" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_10_2022_7_53_[Changes]/django9.mo" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/django/contrib/humanize/locale/ar_DZ/LC_MESSAGES/django.mo" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_10_2022_7_53_[Changes]/django10.mo" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/import_export/locale/nl/LC_MESSAGES/django.mo" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_10_2022_7_53_[Changes]/django11.mo" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/django/contrib/humanize/locale/tg/LC_MESSAGES/django.mo" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_10_2022_7_53_[Changes]/django12.mo" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/django/contrib/sessions/locale/tk/LC_MESSAGES/django.mo" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_10_2022_7_53_[Changes]/django13.mo" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/django/contrib/admindocs/locale/tg/LC_MESSAGES/django.mo" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_10_2022_7_53_[Changes]/django14.mo" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/django/contrib/sites/locale/tg/LC_MESSAGES/django.mo" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_10_2022_7_53_[Changes]/django15.mo" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/import_export/locale/ar/LC_MESSAGES/django.mo" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_10_2022_7_53_[Changes]/django16.mo" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/django/contrib/flatpages/locale/ky/LC_MESSAGES/django.mo" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_10_2022_7_53_[Changes]/django17.mo" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/django/conf/locale/ig/LC_MESSAGES/django.mo" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_10_2022_7_53_[Changes]/django18.mo" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/django/conf/locale/uz/LC_MESSAGES/django.mo" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_10_2022_7_53_[Changes]/django19.mo" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/django/contrib/auth/locale/uz/LC_MESSAGES/django.mo" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_10_2022_7_53_[Changes]/django20.mo" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/django/contrib/admin/locale/ar_DZ/LC_MESSAGES/djangojs.mo" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_10_2022_7_53_[Changes]/djangojs.mo" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/django/contrib/admin/locale/ky/LC_MESSAGES/djangojs.mo" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_10_2022_7_53_[Changes]/djangojs1.mo" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/django/contrib/postgres/locale/sr_Latn/LC_MESSAGES/django.mo" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_10_2022_7_53_[Changes]/django21.mo" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/import_export/locale/it/LC_MESSAGES/django.mo" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_10_2022_7_53_[Changes]/django22.mo" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Scripts/django-admin.exe" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_10_2022_7_53_[Changes]/django-admin.exe" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/django/contrib/postgres/locale/ar_DZ/LC_MESSAGES/django.mo" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_10_2022_7_53_[Changes]/django23.mo" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/django/contrib/auth/locale/ar_DZ/LC_MESSAGES/django.mo" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_10_2022_7_53_[Changes]/django24.mo" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/import_export/locale/ko/LC_MESSAGES/django.mo" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_10_2022_7_53_[Changes]/django25.mo" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/django/contrib/auth/locale/tk/LC_MESSAGES/django.mo" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_10_2022_7_53_[Changes]/django26.mo" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/django/contrib/postgres/locale/tk/LC_MESSAGES/django.mo" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_10_2022_7_53_[Changes]/django27.mo" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/django/conf/locale/tk/LC_MESSAGES/django.mo" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_10_2022_7_53_[Changes]/django28.mo" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/django/contrib/redirects/locale/ar_DZ/LC_MESSAGES/django.mo" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_10_2022_7_53_[Changes]/django29.mo" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/django/conf/locale/ar_DZ/LC_MESSAGES/django.mo" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_10_2022_7_53_[Changes]/django30.mo" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/django/contrib/humanize/locale/ky/LC_MESSAGES/django.mo" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_10_2022_7_53_[Changes]/django31.mo" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/yaml/_yaml.cp37-win_amd64.pyd" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_10_2022_7_53_[Changes]/_yaml.cp37-win_amd64.pyd" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/import_export/locale/es/LC_MESSAGES/django.mo" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_10_2022_7_53_[Changes]/django32.mo" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/django/contrib/gis/locale/ky/LC_MESSAGES/django.mo" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_10_2022_7_53_[Changes]/django33.mo" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/import_export/locale/zh_Hans/LC_MESSAGES/django.mo" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_10_2022_7_53_[Changes]/django34.mo" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/django/contrib/admindocs/locale/ar_DZ/LC_MESSAGES/django.mo" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_10_2022_7_53_[Changes]/django35.mo" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/django/contrib/gis/locale/tg/LC_MESSAGES/django.mo" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_10_2022_7_53_[Changes]/django36.mo" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/django/contrib/auth/locale/tg/LC_MESSAGES/django.mo" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_10_2022_7_53_[Changes]/django37.mo" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/django/contrib/flatpages/locale/ar_DZ/LC_MESSAGES/django.mo" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_10_2022_7_53_[Changes]/django38.mo" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="db.sqlite3" />
+    <option name="AFTER_PATH" value="db.sqlite3" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_10_2022_7_53_[Changes]/db.sqlite3" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/import_export/locale/kz/LC_MESSAGES/django.mo" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_10_2022_7_53_[Changes]/django39.mo" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/django/contrib/postgres/locale/tg/LC_MESSAGES/django.mo" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_10_2022_7_53_[Changes]/django40.mo" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/django/contrib/contenttypes/locale/tk/LC_MESSAGES/django.mo" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_10_2022_7_53_[Changes]/django41.mo" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/import_export/locale/sk/LC_MESSAGES/django.mo" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_10_2022_7_53_[Changes]/django42.mo" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/django/contrib/redirects/locale/tg/LC_MESSAGES/django.mo" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_10_2022_7_53_[Changes]/django43.mo" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/django/contrib/auth/locale/ky/LC_MESSAGES/django.mo" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_10_2022_7_53_[Changes]/django44.mo" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/import_export/locale/ru/LC_MESSAGES/django.mo" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_10_2022_7_53_[Changes]/django45.mo" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/django/contrib/postgres/locale/uz/LC_MESSAGES/django.mo" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_10_2022_7_53_[Changes]/django46.mo" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/django/contrib/contenttypes/locale/ky/LC_MESSAGES/django.mo" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_10_2022_7_53_[Changes]/django47.mo" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/django/contrib/redirects/locale/ky/LC_MESSAGES/django.mo" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_10_2022_7_53_[Changes]/django48.mo" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/import_export/locale/fa/LC_MESSAGES/django.mo" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_10_2022_7_53_[Changes]/django49.mo" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/django/contrib/contenttypes/locale/ar_DZ/LC_MESSAGES/django.mo" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_10_2022_7_53_[Changes]/django50.mo" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/import_export/locale/es_AR/LC_MESSAGES/django.mo" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_10_2022_7_53_[Changes]/django51.mo" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/django/contrib/redirects/locale/tk/LC_MESSAGES/django.mo" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_10_2022_7_53_[Changes]/django52.mo" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/django/contrib/humanize/locale/ms/LC_MESSAGES/django.mo" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_10_2022_7_53_[Changes]/django53.mo" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/import_export/locale/pl/LC_MESSAGES/django.mo" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_10_2022_7_53_[Changes]/django54.mo" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/django/contrib/admin/locale/ky/LC_MESSAGES/django.mo" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_10_2022_7_53_[Changes]/django55.mo" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/import_export/locale/tr/LC_MESSAGES/django.mo" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_10_2022_7_53_[Changes]/django56.mo" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/django/contrib/sites/locale/ar_DZ/LC_MESSAGES/django.mo" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_10_2022_7_53_[Changes]/django57.mo" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/import_export/locale/fr/LC_MESSAGES/django.mo" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_10_2022_7_53_[Changes]/django58.mo" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/django/contrib/postgres/locale/ml/LC_MESSAGES/django.mo" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_10_2022_7_53_[Changes]/django59.mo" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/django/contrib/flatpages/locale/tg/LC_MESSAGES/django.mo" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_10_2022_7_53_[Changes]/django60.mo" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/django/contrib/gis/locale/ar_DZ/LC_MESSAGES/django.mo" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_10_2022_7_53_[Changes]/django61.mo" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/import_export/locale/cs/LC_MESSAGES/django.mo" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_10_2022_7_53_[Changes]/django62.mo" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/django/contrib/admin/locale/uz/LC_MESSAGES/djangojs.mo" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_10_2022_7_53_[Changes]/djangojs2.mo" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/django/contrib/postgres/locale/ky/LC_MESSAGES/django.mo" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_10_2022_7_53_[Changes]/django63.mo" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/django/contrib/admin/locale/tg/LC_MESSAGES/djangojs.mo" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_10_2022_7_53_[Changes]/djangojs3.mo" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/django/contrib/contenttypes/locale/tg/LC_MESSAGES/django.mo" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_10_2022_7_53_[Changes]/django64.mo" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/import_export/locale/ja/LC_MESSAGES/django.mo" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_10_2022_7_53_[Changes]/django65.mo" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/django/contrib/admin/locale/uz/LC_MESSAGES/django.mo" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_10_2022_7_53_[Changes]/django66.mo" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/import_export/locale/bg/LC_MESSAGES/django.mo" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_10_2022_7_53_[Changes]/django67.mo" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/import_export/locale/pt_BR/LC_MESSAGES/django.mo" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_10_2022_7_53_[Changes]/django68.mo" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/django/contrib/flatpages/locale/tk/LC_MESSAGES/django.mo" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_10_2022_7_53_[Changes]/django69.mo" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/django/contrib/admin/locale/ar_DZ/LC_MESSAGES/django.mo" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_10_2022_7_53_[Changes]/django70.mo" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/django/contrib/sites/locale/ky/LC_MESSAGES/django.mo" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_10_2022_7_53_[Changes]/django71.mo" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/django/contrib/admin/locale/tg/LC_MESSAGES/django.mo" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_10_2022_7_53_[Changes]/django72.mo" />
+  </binary>
+</changelist>
