@@ -4,93 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d550c33-e200-48dc-a86d-c998eea00754" name="Changes" comment="sitio de administracion con CKEditor instalado y funcionando correctamente">
-      <change afterPath="$PROJECT_DIR$/apps/blog/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/apps/blog/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/clean-blog.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/clean-blog.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/.directory" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/about-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/contact-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/home-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/post-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/img/post-sample-image.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/clean-blog.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/clean-blog.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/contact_me.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/jqBootstrapValidation.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/vendor/bootstrap/css/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/vendor/bootstrap/css/bootstrap-grid.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/vendor/bootstrap/css/bootstrap-grid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/vendor/bootstrap/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/vendor/bootstrap/css/bootstrap-reboot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/vendor/bootstrap/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/vendor/bootstrap/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/vendor/bootstrap/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/vendor/bootstrap/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/vendor/bootstrap/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/vendor/bootstrap/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/vendor/bootstrap/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/vendor/bootstrap/js/bootstrap.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/vendor/bootstrap/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/vendor/bootstrap/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/vendor/bootstrap/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/vendor/bootstrap/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/vendor/bootstrap/js/bootstrap.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/vendor/bootstrap/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/vendor/bootstrap/js/bootstrap.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/vendor/fontawesome-free/css/all.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/vendor/fontawesome-free/css/all.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/vendor/fontawesome-free/css/brands.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/vendor/fontawesome-free/css/brands.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/vendor/fontawesome-free/css/fontawesome.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/vendor/fontawesome-free/css/fontawesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/vendor/fontawesome-free/css/regular.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/vendor/fontawesome-free/css/regular.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/vendor/fontawesome-free/css/solid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/vendor/fontawesome-free/css/solid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/vendor/fontawesome-free/css/svg-with-js.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/vendor/fontawesome-free/css/svg-with-js.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/vendor/fontawesome-free/css/v4-shims.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/vendor/fontawesome-free/css/v4-shims.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/vendor/fontawesome-free/webfonts/fa-brands-400.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/vendor/fontawesome-free/webfonts/fa-brands-400.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/vendor/fontawesome-free/webfonts/fa-brands-400.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/vendor/fontawesome-free/webfonts/fa-brands-400.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/vendor/fontawesome-free/webfonts/fa-brands-400.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/vendor/fontawesome-free/webfonts/fa-regular-400.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/vendor/fontawesome-free/webfonts/fa-regular-400.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/vendor/fontawesome-free/webfonts/fa-regular-400.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/vendor/fontawesome-free/webfonts/fa-regular-400.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/vendor/fontawesome-free/webfonts/fa-regular-400.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/vendor/fontawesome-free/webfonts/fa-solid-900.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/vendor/fontawesome-free/webfonts/fa-solid-900.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/vendor/fontawesome-free/webfonts/fa-solid-900.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/vendor/fontawesome-free/webfonts/fa-solid-900.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/vendor/fontawesome-free/webfonts/fa-solid-900.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/vendor/jquery/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/vendor/jquery/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/vendor/jquery/jquery.min.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/vendor/jquery/jquery.slim.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/vendor/jquery/jquery.slim.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/vendor/jquery/jquery.slim.min.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/post.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Django_blog.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Django_blog.iml" afterDir="false" />
+    <list default="true" id="5d550c33-e200-48dc-a86d-c998eea00754" name="Changes" comment="Se configuro todo el template inidial 'index.html'">
+      <change beforePath="$PROJECT_DIR$/.idea/webResources.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/apps/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/apps/blog/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/blog/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/apps/blog/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/blog/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/apps/blog/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/blog/apps.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/apps/blog/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/blog/migrations/0001_initial.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/apps/blog/migrations/0002_post.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/blog/migrations/0002_post.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/apps/blog/migrations/0003_auto_20221001_0844.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/blog/migrations/0003_auto_20221001_0844.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/apps/blog/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/blog/migrations/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/apps/blog/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/blog/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/apps/blog/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/blog/tests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/apps/blog/views.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/blog/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,8 +45,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "C:/Users/Fili/PycharmProjects/Django_blog/blog/static",
     "node.js.detected.package.eslint": "true",
@@ -210,7 +131,7 @@
       <workItem from="1664632878551" duration="224000" />
       <workItem from="1664633116309" duration="1945000" />
       <workItem from="1664645394710" duration="809000" />
-      <workItem from="1664646796593" duration="2380000" />
+      <workItem from="1664646796593" duration="4675000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1664637012639</created>
@@ -240,7 +161,21 @@
       <option name="project" value="LOCAL" />
       <updated>1664641006831</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Se configuro todo el template inidial 'index.html'">
+      <created>1664649291830</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1664649291830</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Se configuro todo el template inidial 'index.html'">
+      <created>1664649720697</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1664649720697</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -272,6 +207,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Initial commit" />
     <MESSAGE value="sitio de administracion con CKEditor instalado y funcionando correctamente" />
-    <option name="LAST_COMMIT_MESSAGE" value="sitio de administracion con CKEditor instalado y funcionando correctamente" />
+    <MESSAGE value="Se configuro todo el template inidial 'index.html'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Se configuro todo el template inidial 'index.html'" />
   </component>
 </project>
