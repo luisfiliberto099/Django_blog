@@ -1,5 +1,5 @@
 from django.contrib import admin
-from blog.apps.blog.models import *
+from apps.blog.models import *
 
 class CategoriaAdmin(admin.ModelAdmin):
     search_fields = ['nombre']
