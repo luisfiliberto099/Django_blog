@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d550c33-e200-48dc-a86d-c998eea00754" name="Changes" comment="se corrigio las rutas de los archivos estaticos">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="5d550c33-e200-48dc-a86d-c998eea00754" name="Changes" comment="se corrigio las rutas de los archivos estaticos" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -127,7 +125,7 @@
       <workItem from="1664632878551" duration="224000" />
       <workItem from="1664633116309" duration="1945000" />
       <workItem from="1664645394710" duration="809000" />
-      <workItem from="1664646796593" duration="6040000" />
+      <workItem from="1664646796593" duration="6071000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1664637012639</created>
@@ -185,7 +183,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664651602307</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="se corrigio las rutas de los archivos estaticos">
+      <created>1664652874729</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1664652874729</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
