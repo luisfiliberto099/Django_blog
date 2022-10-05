@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d550c33-e200-48dc-a86d-c998eea00754" name="Changes" comment="se corrigio las rutas de los archivos estaticos">
-      <change afterPath="$PROJECT_DIR$/templates/generales.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_10_2022_7_53__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_01_10_2022_7_53__Changes_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/blog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/apps/blog/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="5d550c33-e200-48dc-a86d-c998eea00754" name="Changes" comment="se corrigio las rutas de los archivos estaticos" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -135,7 +128,7 @@
       <workItem from="1664646796593" duration="6071000" />
       <workItem from="1664751940458" duration="721000" />
       <workItem from="1664810534065" duration="994000" />
-      <workItem from="1664815630551" duration="3020000" />
+      <workItem from="1664815630551" duration="3285000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1664637012639</created>
@@ -200,7 +193,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664652874729</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="se corrigio las rutas de los archivos estaticos">
+      <created>1664819275045</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1664819275045</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
